@@ -41,3 +41,8 @@ Analizziamo questo nuovo file di seguito:
     
     -   L'istanza del router viene esportata per poter essere utilizzata nell'applicazione principale.
 
+
+## Redirect e 404? No problem:
+
+<img width="524" alt="Screenshot 2024-01-10 alle 16 04 05" src="https://github.com/simonedimeglio/vue-router/assets/78272736/8e47a470-9d23-4110-8d98-219e080d29c3">
+
